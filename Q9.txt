@@ -1,0 +1,11 @@
+Question 9
+
+Trying to add incompatible variables, as in adding 6 + 'a': This will cause a TypeError because you cannot add an integer (6) and a string ('a') together.
+
+Referring to the 12th item of a list that has only 10 items: This will cause an IndexError because you are trying to access an index (12) that is outside the range of valid indices for the given list.
+
+Using a value that is out of range for a function's input, such as calling math.sqrt(-1.0): This will cause a ValueError because the math.sqrt() function expects a non-negative value for the square root operation. Passing a negative value (-1.0) will result in an error.
+
+Using an undeclared variable, such as print(x), when x has not been defined: This will cause a NameError because the variable x has not been declared or assigned a value before using it in the print() statement.
+
+Trying to open a file that does not exist, such as mistyping the file name or looking in the wrong directory: This will cause a FileNotFoundError when attempting to open the file because the file specified in the code does not exist or cannot be found in the given directory path.
