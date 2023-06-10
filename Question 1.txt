@@ -1,0 +1,19 @@
+BDAT 1004 - Data Programming
+Problem Set 1
+
+
+question 1 : 
+
+
+5 = integer 
+5.0 = float 
+5 > 1 = boolean 
+'5' = string
+5 * 2 = integer 
+'5' * 2 = string 
+'5' + '2' = string 
+5 / 2 = float
+5 % 2 = int
+{5, 2, 1} = set 
+5 == 3 = boolean
+Pi (the number) = float
